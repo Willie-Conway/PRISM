@@ -1,6 +1,6 @@
 # 📈 PRISM — Market Intelligence Terminal
 
-![alt text](Screenshots/PRISM_MKT.png)
+![alt text](Screenshots/PRISM_Logo_2.png)
 
 ![PRISM Terminal](https://img.shields.io/badge/PRISM-Market_Intelligence_Terminal-00d4aa?style=for-the-badge&logo=yahoo&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
