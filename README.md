@@ -57,6 +57,8 @@ PRISM is a **real-time market intelligence terminal** built with **HTML, CSS, an
 - **Most Active** — Volume leaders with live data
 - **Ticker Tape** — Scrolling prices for 15 major stocks
 
+![alt text](<Screenshots/API Keys.png>)
+
 ![alt text](Screenshots/Overview.png)
 
 ---
