@@ -1,5 +1,7 @@
 # 📈 PRISM — Market Intelligence Terminal
 
+![alt text](Screenshots/PRISM_MKT.png)
+
 ![PRISM Terminal](https://img.shields.io/badge/PRISM-Market_Intelligence_Terminal-00d4aa?style=for-the-badge&logo=yahoo&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,6 +57,8 @@ PRISM is a **real-time market intelligence terminal** built with **HTML, CSS, an
 - **Most Active** — Volume leaders with live data
 - **Ticker Tape** — Scrolling prices for 15 major stocks
 
+![alt text](Screenshots/Overview.png)
+
 ---
 
 ## 📉 **Module 02: Equities Analysis**
@@ -86,6 +90,8 @@ PRISM is a **real-time market intelligence terminal** built with **HTML, CSS, an
 - Change ($ and %)
 - 52-Week High/Low
 - Volume
+
+![alt text](Screenshots/Equities.png)
 
 ---
 
@@ -119,6 +125,9 @@ PRISM is a **real-time market intelligence terminal** built with **HTML, CSS, an
 | Polkadot     | DOT    | `polkadot`    |
 | Chainlink    | LINK   | `chainlink`   |
 
+
+![alt text](Screenshots/Crypto.png)
+
 ---
 
 ## 💱 **Module 04: Forex Markets**
@@ -138,6 +147,8 @@ PRISM is a **real-time market intelligence terminal** built with **HTML, CSS, an
 ### **Currencies Tracked** 💶
 
 USD, EUR, GBP, JPY, CHF, CAD, AUD, NZD, SEK, NOK, DKK, SGD, HKD, CNY, INR, BRL, MXN, KRW, ZAR, TRY
+
+![alt text](Screenshots/Forex.png)
 
 ---
 
@@ -171,6 +182,8 @@ USD, EUR, GBP, JPY, CHF, CAD, AUD, NZD, SEK, NOK, DKK, SGD, HKD, CNY, INR, BRL, 
 - Sortable by % change (descending)
 - Color-coded RSI values
 - Signal tags with appropriate styling
+  
+![alt text](<Screenshots/Market Screener.png>)
 
 ---
 
@@ -196,6 +209,8 @@ USD, EUR, GBP, JPY, CHF, CAD, AUD, NZD, SEK, NOK, DKK, SGD, HKD, CNY, INR, BRL, 
 - Publication date
 - Click to open full article
 
+![alt text](Screenshots/News.png)
+
 ---
 
 ## 📊 **Module 07: Symbol Comparison**
@@ -220,6 +235,8 @@ USD, EUR, GBP, JPY, CHF, CAD, AUD, NZD, SEK, NOK, DKK, SGD, HKD, CNY, INR, BRL, 
 - Symbol 2: `#58a6ff` (blue)
 - Symbol 3: `#ff6b35` (orange)
 - Symbol 4: `#7c5cfc` (purple)
+
+![alt text](Screenshots/Compare.png)
 
 ---
 
@@ -257,6 +274,8 @@ USD, EUR, GBP, JPY, CHF, CAD, AUD, NZD, SEK, NOK, DKK, SGD, HKD, CNY, INR, BRL, 
 - Sortable by performance
 - ETF symbol, sector name, price, daily change
 - Click any row to load stock chart
+
+![alt text](Screenshots/Heatmap.png)
 
 ---
 
