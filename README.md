@@ -532,4 +532,4 @@ MIT License — see LICENSE file for details.
 
 ---
 
-*Last updated: March 2025*
+*Last updated: March 2026*
