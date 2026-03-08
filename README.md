@@ -292,7 +292,7 @@ USD, EUR, GBP, JPY, CHF, CAD, AUD, NZD, SEK, NOK, DKK, SGD, HKD, CNY, INR, BRL, 
 - **Orange** (`#ff6b35`) for accent elements
 - **Monospace fonts** — JetBrains Mono, Space Mono for data tables
 
-### **Typography** ✍️
+### **Typography** ✍🏿
 
 - **Syne** — Bold headers, KPI values, logo
 - **JetBrains Mono** — Code blocks, technical data, tables
@@ -489,7 +489,7 @@ MIT License — see LICENSE file for details.
 
 ---
 
-## 🙏 **Acknowledgments**
+## 🙏🏿 **Acknowledgments**
 
 - **Yahoo Finance** — Public chart API
 - **CoinGecko** — Free cryptocurrency data
